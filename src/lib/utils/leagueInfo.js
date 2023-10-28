@@ -1,8 +1,8 @@
 /*   STEP 1   */
 export const leagueID = "920489277128081408"; // your league ID
 export const leagueName = "Depressing Fantasy League"; // your league name
-export const dues = 100; // (optional) used in template constitution page
-export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
+export const dues = null; // (optional) used in template constitution page
+export const dynasty = null; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
